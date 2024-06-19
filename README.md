@@ -1,7 +1,8 @@
 ### Welcome 👋
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackmcguire1&theme=radical&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=jackmcguire1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmcguire1" align="center">
 
 ## Socials
 <code><img src="https://img.shields.io/twitter/follow/crazyjack12?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/></code>
@@ -17,7 +18,7 @@
 <code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <code><img height="30" src="https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=blue"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmcguire1" align="center">
+
 
 
 ## Tools And Frameworks
@@ -33,21 +34,5 @@
 <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/AWS-ED8B00?style=for-the-badge&logo=aws&logoColor=orange"></code>
-## Github Infographs
 
-<img src="https://github-readme-stats.vercel.app/api?username=jackmcguire1"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=jackmcguire1&theme=dracula"/>
-<!--
-**jackmcguire1/jackmcguire1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
